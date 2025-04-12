@@ -1,1 +1,1 @@
-Projects developed for the Compiler Course at University of Tehran.
+Projects developed for the Software 1 Course at University of Tehran.
